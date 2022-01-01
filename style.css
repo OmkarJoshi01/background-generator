@@ -1,0 +1,22 @@
+/*Selector{
+	Property: value;
+}
+*/
+
+
+
+h2{
+	color: orange;
+
+	text-align: center;
+	border: 5px solid rgb(255,0,0);
+	cursor: pointer;
+}
+
+p{
+	color: green;
+}
+
+b{
+	color: red;
+}
